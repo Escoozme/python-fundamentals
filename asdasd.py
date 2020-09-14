@@ -24,3 +24,5 @@ for counterX in range(284, 794, 85):
     enemies1.append([counterX, 219])
 
 print(enemies1)
+
+#test
